@@ -2,7 +2,7 @@
 ## tiulo 2
 ### titulo 3
 Repositorio `APOF-RA2` creado para la tarea del miércoles 23.
-<img width="299" height="168" alt="images" src="https://github.com/user-attachments/assets/799e39e5-b83a-4407-baeb-7c3374468ced" />
+<img width="499" height="198" alt="images" src="https://github.com/user-attachments/assets/799e39e5-b83a-4407-baeb-7c3374468ced" />
 ### tablas 
 | Encabezado 1 | Encabezado 2 | Encabezado 3 |
 |--------------|--------------|--------------|
