@@ -1,0 +1,4 @@
+bienvenidos y bienvenidas a mi fichero saludo.txt
+al tratarse de un fichero tipo txt si escribo sintaxis de tipo markdown como son **negritas** mo funcionará
+
+lo mismo ocurrirá si utilizo sintaxis de HTML como es <strong>strong</strong>
